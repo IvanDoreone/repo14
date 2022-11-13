@@ -7,7 +7,9 @@ _*тестовый проект для изучения  GIT*_
  License: [MIT](/license.md "ознакомиться с текстом лицензии")
 
 ---
-![](./Git-Logo-Black.png)
+
+
+<img src="Git-Logo-Black.png" alt="50" width="150"/>
 
 Содержание
   1. Введение
@@ -16,7 +18,11 @@ _*тестовый проект для изучения  GIT*_
   4. Регистрация на Github.com и сздание нового удаленного репозитория.
   5. Связь локального и удаленного репозиториев
   6. Команды GIT
-        + команда [Add](/add.md)
+        + команда [`Add`](/add.md)
+        + команда [`init`](/add.md)
+        + команда [`commit`](/add.md)
+        + команда [`push`](/add.md)
+        + команда [`clone`](/add.md) 
 
 ---
 git-logo by Jason Long https://git-scm.com/downloads/logos,
