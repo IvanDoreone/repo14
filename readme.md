@@ -26,4 +26,5 @@ _*тестовый проект для изучения  GIT*_
 
 ---
 git-logo by Jason Long https://git-scm.com/downloads/logos,
-license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/ "license CC BY 3.0")
+license: 
+<a href="https://creativecommons.org/licenses/by/3.0/" target="_blank">CC BY 3.0</a>
