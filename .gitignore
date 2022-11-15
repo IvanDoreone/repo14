@@ -1,3 +1,8 @@
 #vscode lokal files
 *.vscode
 *.local
+*.suo
+*.user*
+/*cockie*
+*.log
+*.tmp
